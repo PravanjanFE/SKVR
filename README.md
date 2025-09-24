@@ -77,6 +77,10 @@ A **ChatGPT-based assistant bot** provides **real-time guidance**, ensuring lear
 
 ---
 
+[▶ Watch Gameplay UI_UX Flow](https://www.figma.com/design/gBRzTYlm3SfBivgkxayv7Y/SKVR-UI_UX-and-Storyboard?node-id=419-348&t=pANg68sEUGDkigUw-1)
+
+---
+
 ## 📝 Quizzing
 - **5-question quiz** at the end of each module  
 - Tracks **progress, comprehension, and retention**  
