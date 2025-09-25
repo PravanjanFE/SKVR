@@ -18,7 +18,8 @@ This project combines **Unity XR Toolkit**, **Blender 3D modeling**, and **AI-dr
 ## 📑 Contents
 - [🌍 Overview](#-overview)  
 - [🔄 Workflow Summary](#-workflow-summary)  
-- [🏗 Virtual Environment](#-virtual-environment)  
+- [🏗 Virtual Environment](#-virtual-environment)
+- [🔊 Audio](#-audio)
 - [🤖 AI Assistance](#-ai-assistance)  
 - [🎮 User Interaction](#-user-interaction)  
 - [📝 Quizzing](#-quizzing)  
@@ -52,16 +53,26 @@ A **ChatGPT-based assistant bot** provides **real-time guidance**, ensuring lear
 - **3D Environment (Blender)** → Modeled a scaled, realistic kitchen with equipment & hazards  
 - **Unity Development (URP + XR Toolkit)** → Implemented VR interactions, lighting, materials, and logic for modules  
 - **AI Integration** → Trained a **ChatGPT bot** on kitchen safety knowledge for guidance & feedback  
-- **Assessment System** → Built quizzes to validate knowledge retention  
+- **Assessment System** → Built quizzes to validate knowledge retention
 
-![TrelloBoard](./Assets/Images/github/Trello-workflow.png)
-This screenshot shows the Trello board workflow for this project.
+<p align="center">
+<img src="./Assets/Images/github/Trello-workflow.png" width="70%"><br>
+<em>This image shows the Trello board workflow for this project.</em>
+</p>
+
 ---
 
 ## 🏗 Virtual Environment
 - Blender-built, restaurant-style kitchen with **accurate scaling**  
 - Realistic **textures, lighting, and materials** optimized in **Unity URP**  
 - Fully interactive **equipment and hazard simulations**  
+
+---
+
+## 🔊 Audio
+- To mimic the **floor environment ambiance**, we added **sound effects** to all equipment and machinery, just like in the **real-world seed packaging line**.  
+- This addition makes the VR training experience even **more immersive and realistic**, allowing trainees to feel fully present in the simulated environment.  
+
 
 ---
 
@@ -79,9 +90,10 @@ This screenshot shows the Trello board workflow for this project.
 
 ---
 
-![Figma-UX-Flow](./Assets/Images/github/figma-ux-flow.png)
-
-[▶ Click here to explore the module’s UX flow](https://www.figma.com/board/cQgocvhTXEDrwipRGhxJeR/Module-5-UX-Flow-and-Storyboard?node-id=0-1&p=f)
+<p align="center">
+<img src="./Assets/Images/github/figma-ux-flow.png" width="70%"><br>
+<a href="https://www.figma.com/board/cQgocvhTXEDrwipRGhxJeR/Module-5-UX-Flow-and-Storyboard?node-id=0-1&p=f" target="blank">▶ Click here to explore the module’s UX flow</a>
+</p>
 
 ---
 
