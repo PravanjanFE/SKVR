@@ -1,4 +1,4 @@
-![SKVR](./Assets/Images/github/cover-image.png)
+![SKVR](./Assets/Images/github/cover-image2.png)
 
 # 🥘 SKVR – Immersive Training Simulator
 
@@ -77,7 +77,9 @@ A **ChatGPT-based assistant bot** provides **real-time guidance**, ensuring lear
 
 ---
 
-[▶ Watch Gameplay UI_UX Flow](https://www.figma.com/design/gBRzTYlm3SfBivgkxayv7Y/SKVR-UI_UX-and-Storyboard?node-id=419-348&t=pANg68sEUGDkigUw-1)
+![SKVR](./Assets/Images/github/figma-ux-flow.png)
+
+[▶ Watch Gameplay UI_UX Flow](https://www.figma.com/board/cQgocvhTXEDrwipRGhxJeR/Module-5-UX-Flow-and-Storyboard?node-id=0-1&p=f)
 
 ---
 
