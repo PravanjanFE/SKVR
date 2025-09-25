@@ -79,7 +79,7 @@ A **ChatGPT-based assistant bot** provides **real-time guidance**, ensuring lear
 
 ![Figma-UX-Flow](./Assets/Images/github/figma-ux-flow.png)
 
-[▶ Click Here to see UX Flow](https://www.figma.com/board/cQgocvhTXEDrwipRGhxJeR/Module-5-UX-Flow-and-Storyboard?node-id=0-1&p=f)
+[▶ Click here to explore the module’s UX flow](https://www.figma.com/board/cQgocvhTXEDrwipRGhxJeR/Module-5-UX-Flow-and-Storyboard?node-id=0-1&p=f)
 
 ---
 
