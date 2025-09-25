@@ -54,6 +54,8 @@ A **ChatGPT-based assistant bot** provides **real-time guidance**, ensuring lear
 - **AI Integration** → Trained a **ChatGPT bot** on kitchen safety knowledge for guidance & feedback  
 - **Assessment System** → Built quizzes to validate knowledge retention  
 
+![TrelloBoard](./Assets/Images/github/Trello-workflow.png)
+This screenshot shows the Trello board workflow for this project.
 ---
 
 ## 🏗 Virtual Environment
