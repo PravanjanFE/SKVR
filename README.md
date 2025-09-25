@@ -119,13 +119,8 @@ The **Safe Kitchen VR Simulator** provides a **safe, guided, and gamified traini
 ---
 
 ## 🔐 Data Privacy & Security
-Our **data handling approach** prioritizes **client data sovereignty** through:  
-- **On-premises deployment**  
+Our **data handling approach** prioritizes **client data sovereignty** through:
 - **Comprehensive security controls**  
 - **Transparent operational practices**  
-
-All solutions operate **within client infrastructure**, ensuring:  
-- Complete **data ownership and control**  
-- Maintenance of **enterprise-grade security standards** throughout the **project lifecycle**  
 
 ---
